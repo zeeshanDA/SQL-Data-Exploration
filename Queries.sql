@@ -62,4 +62,3 @@ Select Cloth_Class, max(Cons_rating) as HighestRating, min(Cons_rating) as LowRa
 From CustomerReviews$
 Group by Cloth_class
 
--- Joining Tables
